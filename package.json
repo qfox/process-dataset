@@ -1,0 +1,25 @@
+{
+  "name": "process-dataset",
+  "version": "0.1.0",
+  "description": "Shares data between submodules using process variable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zxqfox/process-storage.git"
+  },
+  "keywords": [
+    "share",
+    "data",
+    "storage",
+    "between",
+    "modules"
+  ],
+  "author": "Alexej Yaroshevich <zxqfox@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zxqfox/process-storage/issues"
+  }
+}
